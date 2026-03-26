@@ -8,7 +8,7 @@ Neofetch wrapper with AppArmor info for HyperionOS — shows system info, AppArm
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/hyperionfetch
+git clone https://github.com/HyperionOS-dev/hyperionfetch
 cd hyperionfetch
 chmod +x hyperionfetch.sh
 ./hyperionfetch.sh
